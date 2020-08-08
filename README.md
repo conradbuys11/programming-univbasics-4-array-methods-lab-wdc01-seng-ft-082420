@@ -1,4 +1,4 @@
-# Array Methods Lab
+f# Array Methods Lab
 
 ## Learning Goals
 
